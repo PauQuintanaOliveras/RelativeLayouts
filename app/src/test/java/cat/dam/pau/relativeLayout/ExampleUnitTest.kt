@@ -1,4 +1,4 @@
-package cat.dam.andy.menulayouts
+package cat.dam.pau.relativeLayout
 
 import org.junit.Test
 

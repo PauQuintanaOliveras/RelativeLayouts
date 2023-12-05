@@ -1,4 +1,4 @@
-package cat.dam.andy.menulayouts.ui.theme
+package cat.dam.pau.relativeLayout.ui.theme
 
 import androidx.activity.ComponentActivity
 import androidx.compose.foundation.isSystemInDarkTheme

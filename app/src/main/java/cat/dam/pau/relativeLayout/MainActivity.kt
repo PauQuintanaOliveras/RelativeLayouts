@@ -1,4 +1,4 @@
-package cat.dam.andy.menulayouts
+package cat.dam.pau.relativelayout
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -18,7 +18,8 @@ import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.viewinterop.AndroidView
-import cat.dam.andy.menulayouts.ui.theme.AppTheme
+import cat.dam.pau.relativeLayout.R
+import cat.dam.pau.relativeLayout.ui.theme.AppTheme
 
 class MainActivity : ComponentActivity() {
     // Enumeració per als diferents identificadors de disseny

@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "cat.dam.andy.menulayouts"
+    namespace = "cat.dam.pau.relativeLayout"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "cat.dam.andy.menulayouts"
+        applicationId = "cat.dam.pau.relativeLayout"
         minSdk = 28
         targetSdk = 34
         versionCode = 1
