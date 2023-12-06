@@ -1,7 +1,19 @@
 <resources>
-    <string name="app_name">MenuLayouts</string>
-    <string name="btn_layout1">L1</string>
-    <string name="btn_layout2">L2</string>
-    <string name="btn_layout3">L3</string>
-    <string name="btn_layout4">L4</string>
+    <string name="app_name">RelativeLayouts</string>
+    <string name="btn_layout1" translatable="false">L1</string>
+    <string name="btn_layout2" translatable="false">L2</string>
+    <string name="btn_layout3" translatable="false">L3</string>
+    <string name="btn_layout4" translatable="false">L4</string>
+    <string name="center">Center</string>
+    <string name="above">Above</string>
+    <string name="below">Below</string>
+    <string name="further_above">Further Above</string>
+    <string name="further_below">Further Below</string>
+    <string name="green">green</string>
+    <string name="yellow">yellow</string>
+    <string name="orange">Orange</string>
+    <string name="red">red</string>
+    <string name="blue">Blue</string>
+    <string name="purple">Purple</string>
+    <string name="fuchsia">fuchsia</string>
 </resources>

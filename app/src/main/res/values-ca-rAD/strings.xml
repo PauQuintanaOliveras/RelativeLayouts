@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MenuLayouts</string>
+    <string name="center">Centre</string>
+    <string name="above">Sobre</string>
+    <string name="below">Sota</string>
+    <string name="further_above">Mes amunt</string>
+    <string name="further_below">Mes aball</string>
+    <string name="green">verd</string>
+    <string name="yellow">groc</string>
+    <string name="orange">tronja</string>
+    <string name="red">vermell</string>
+    <string name="blue">blau</string>
+    <string name="purple">lila</string>
+    <string name="fuchsia">Fucsia</string>
+</resources>
